@@ -1,0 +1,4 @@
+interface:
+  display_name: "L1 × AI 设计评审"
+  short_description: "L1 小型迭代的局部 UI 设计风险与验收评审"
+  default_prompt: "使用 $l1-ai-design-review 评审这份已完成的局部 UI 设计稿。"
