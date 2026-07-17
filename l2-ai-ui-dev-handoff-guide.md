@@ -100,8 +100,4 @@ Skill 不会猜测接口、错误码、服务端权限、附件限制、幂等�
 
 The Skill does not guess APIs, error codes, server permissions, attachment limits, idempotency, audit, notifications, analytics, security, or performance solutions. A design can prove visual behavior, not server-side eligibility. An action appearing in the UI does not mean the current user and workflow node can execute it. Draft retention, clearing, or blocking during dynamic action switches must be explicitly defined.
 
-## 验证基础与持续迭代 / Validation Basis and Continuous Improvement
 
-本版本来自两类真实 L2 验证：移动端审批详情的可写历史记录模块，以及配置驱动的审批操作模块。前者验证权限、附件、提交、刷新和分页边界；后者验证动作资格、动态字段、切换草稿和反馈边界。建议继续用非审批、非可写历史的配置/查询/保存模块校验边界稳定性。
-
-This version is based on two real L2 validations: a writable-history module on a mobile approval detail page and a configuration-driven approval action module. The former validated permissions, attachments, submission, refresh, and pagination boundaries; the latter validated action eligibility, dynamic fields, draft switching, and feedback boundaries. Continue validating it with non-approval configuration, search, or save modules to test boundary stability.
