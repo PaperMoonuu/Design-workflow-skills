@@ -1,0 +1,4 @@
+interface:
+  display_name: "L2 × AI 设计交付 / 开发沟通"
+  short_description: "将中型功能设计转化为可开发、可测试、可验收的结构化交付包"
+  default_prompt: "使用 $ai-ui-dev-handoff，将这个已完成设计稿的中型功能整理为可开发、可测试的交付包。"
