@@ -1,4 +1,4 @@
-# U-Skills
+# L1-ai-design-review
 
 面向产品设计师的可安装 Codex Skills。每个 Skill 都保留明确的适用范围、交付物和人类决策边界。
 
