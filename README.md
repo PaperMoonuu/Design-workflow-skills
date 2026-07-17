@@ -126,8 +126,4 @@ By default, you receive a conclusion, P0/P1/P2 risks, actionable recommendations
 | 经营看板、工作台、会员体系等多页面专题 / A multi-page dashboard, workbench, or membership topic | 不使用，属于 L3 / No; this is L3 |
 | 只有 PRD，尚未出设计稿 / Only a PRD exists; the design is not ready | 不使用，先做设计前预检 / No; use design preflight first |
 
-## 质量边界 / Quality Boundary
 
-本 Skill 已由两类真实设计后案例验证：审批详情页附言模块、快捷提示词 / 输入插槽。后续会继续用不同类型的 L1 改动校验边界稳定性，但不影响当前日常使用。
-
-This skill has been validated with two types of real post-design cases: an approval-detail note module and quick prompts with an input slot. Further L1 cases will continue to test boundary stability without blocking day-to-day use.
