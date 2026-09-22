@@ -9,7 +9,7 @@ Installable Codex Skills for product designers. Each Skill states its fit, outpu
 | Skill | 用途 / Purpose | 调用 / Invocation |
 | --- | --- | --- |
 | [L1 × AI 设计评审 / L1 × AI Design Review](#l1--ai-设计评审--l1--ai-design-review) | 已完成的局部 UI 迭代评审 / Review completed local UI iterations | `$l1-ai-design-review` |
-| [L2 × AI 设计交付 / 开发沟通](./ai-ui-dev-handoff-guide.md) | 将完整中型功能转为开发、测试共用的交付包 / Turn an L2 feature into a buildable, testable handoff package | `$ai-ui-dev-handoff` |
+| [L2 × AI 设计交付 / 开发沟通](./l2-ai-ui-dev-handoff-guide.md) | 将完整中型功能转为开发、测试共用的交付包 / Turn an L2 feature into a buildable, testable handoff package | `$ai-ui-dev-handoff` |
 
 ---
 
@@ -140,4 +140,3 @@ By default, you receive a conclusion, P0/P1/P2 risks, actionable recommendations
 | 新增包含表单、列表、配置和权限的完整模块 / Add a complete module with forms, lists, configuration, and permissions | 不直接使用，属于 L2 / Not directly; this is L2 |
 | 经营看板、工作台、会员体系等多页面专题 / A multi-page dashboard, workbench, or membership topic | 不使用，属于 L3 / No; this is L3 |
 | 只有 PRD，尚未出设计稿 / Only a PRD exists; the design is not ready | 不使用，先做设计前预检 / No; use design preflight first |
-
