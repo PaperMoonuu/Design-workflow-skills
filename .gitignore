@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Local editor and agent state
+.idea/
+.vscode/
+.codex/
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
